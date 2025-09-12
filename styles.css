@@ -1,6 +1,10 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #f4f4f4;
-    margin: 0;
+    margin: 30px;
     padding: 0;
+}
+.destaque{
+    color: red;
+    font-weight: bold;
 }
